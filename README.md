@@ -14,4 +14,4 @@ foo@bar:~$ make
 
 ## check
 
-[Tutorial](https://www.youtube.com/watch?v=dZNmGWH91EQ) -- 11:54
+[Tutorial](https://www.youtube.com/watch?v=dZNmGWH91EQ) -- 41:08
